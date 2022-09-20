@@ -3,6 +3,7 @@
 ```md
 
 ![alt text](.\assets\work-day-sched.png)
+<img width="465" alt="Screen Shot" src=".\assets\work-day-sched.png">
 
 In this application you can save an event for each hour of your work day to refer back to.
 
