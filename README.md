@@ -5,7 +5,7 @@
 # Deployment Link
  https://jessiedesiree369.github.io/WorkDayScheduler/
 
-<img width="465" alt="Screen Shot" src=".\Assets\work-day-sched.png">
+<img width="465" alt="Screen Shot" src=".\Images\work-day-sched.png">
 
 # Description
   Once clicking on the block of a time slot, 
